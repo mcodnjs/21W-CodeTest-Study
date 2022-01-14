@@ -5,6 +5,8 @@
 [Tue ~ Fri] - 주차 문제 풀이 (Git)
 [Sat ~ Sun] - 짝 피드백 (Git)
 
+[스터디 관리 노션]
+
 
 | Prob | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,3 +23,4 @@
 [문자열 압축]:https://programmers.co.kr/learn/courses/30/lessons/60057 
 [프렌즈4블록]:https://programmers.co.kr/learn/courses/30/lessons/17679
 [불량 사용자]:https://programmers.co.kr/learn/courses/30/lessons/64064
+[스터디 관리 노션]:https://www.notion.so/7b5bb41e1c034f3eaa24dcb8c89f58b5

@@ -5,13 +5,6 @@
 [Tue ~ Fri] - 주차 문제 풀이 (Git)
 [Sat ~ Sun] - 짝 피드백 (Git)
 
-<div class="callout">:memo:
-  <div>
-    <p>JS 는 기본적으로 동기로 실행 → 실행이 끝나야 다음 코드가 실행된다.</p>
-    <p>Promise 는 <strong>비동기로 실행</strong></p>
-  </div>
-</div>
-
 
 | Prob | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |

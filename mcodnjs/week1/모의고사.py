@@ -10,7 +10,7 @@ def solution(answers):
     for i in range(len(answers)):
         person = 1
         while person <= 3:
-            if answers[i] == people[person][i% len(people[person])]:
+            if answers[i] == people[person][i% len(people[person])]:    #전 세개를 나눠서 해줬는데 배열길이로 한번에 해 줄수 있었군요..
                 correct[person-1] += 1
             person += 1
 
@@ -18,3 +18,4 @@ def solution(answers):
         if max(correct) == correct[i]:
             answer.append(i+1)
     return answer
+#Great~

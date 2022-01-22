@@ -1,26 +1,19 @@
 import sys
 
-input_str = input()
+s1 = list(input())
+s2 = []
 m = int(input())
+curr = len(s1)
 
-curr = len(input_str)
 for _ in range(m):
-  command = sys.stdin.readline().strip()
-  if len(command) > 1: # P $
-    input_str = input_str[:curr] + command.split()[1] + input_str[curr:]
-    curr += 1
+  command = sys.stdin.readline().strip().split()
+  if command[0] == 'L' and s1:
+    s2.append(s1.pop())
+  elif command[0] == 'D' and s2:
+    s1.append(s2.pop())
+  elif command[0] == 'B' and s1:
+    s1.pop()
+  elif command[0] == 'P':
+    s1.append(command[1])  
 
-  else:
-    if (command == 'L'):
-      if (curr == 0): continue
-      else: curr -= 1
-    elif (command == 'D'):
-      if (curr == len(input_str)): continue
-      else: curr += 1
-    elif (command == 'B'):
-      if (curr == 0): continue
-      else:
-        input_str = input_str[:curr-1] + input_str[curr:]
-        curr -= 1
-
-print(input_str)
+print(''.join(s1 + list(reversed(s2))))

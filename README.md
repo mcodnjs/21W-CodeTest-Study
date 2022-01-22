@@ -12,7 +12,7 @@
 | Prob | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1주차 (01.10~01.14) | [모의고사] (완전탐색) | [인형뽑기] (시뮬) | [가장 큰 수] (정렬) | [문자열 압축] (문자열) | [프렌즈4블록] (시뮬) | [불량 사용자] () |  |
-| 2주차 (01.17~01.21) |  |  |  |  |  |  |  |
+| 2주차 (01.17~01.21) | [평균은 넘겠지] | [튜플] | [전화번호] | [에디터] | [괄호변환] | [기능개발] | [타겟넘버] |
 | 3주차 (01.24~01.28) |  |  |  |  |  |  |  |
 | 4주차 (02.07~02.11) |  |  |  |  |  |  |  |
 | 5주차 (02.14~02.18) |  |  |  |  |  |  |  |
@@ -25,3 +25,10 @@
 [프렌즈4블록]:https://programmers.co.kr/learn/courses/30/lessons/17679
 [불량 사용자]:https://programmers.co.kr/learn/courses/30/lessons/64064
 [스터디 관리 노션]:https://www.notion.so/7b5bb41e1c034f3eaa24dcb8c89f58b5
+[평균은 넘겠지]:https://www.acmicpc.net/problem/4344 
+[튜플]:https://programmers.co.kr/learn/courses/30/lessons/64065
+[전화번호]:https://programmers.co.kr/learn/courses/30/lessons/42577
+[에디터]:https://www.acmicpc.net/problem/1406
+[괄호변환]:https://programmers.co.kr/learn/courses/30/lessons/60058
+[기능개발]:https://programmers.co.kr/learn/courses/30/lessons/42586
+[타겟넘버]:https://programmers.co.kr/learn/courses/30/lessons/43165

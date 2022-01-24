@@ -112,9 +112,8 @@ class editor
 			}
 		}
 		~editor() {
-			if (len) {
-
-			}
+			if (len)
+				while(delCur());
 		}
 };
 

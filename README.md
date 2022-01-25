@@ -13,7 +13,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1주차 (01.10~01.14) | [모의고사] (완전탐색) | [인형뽑기] (시뮬) | [가장 큰 수] (정렬) | [문자열 압축] (문자열) | [프렌즈4블록] (시뮬) | [불량 사용자] () |  |
 | 2주차 (01.17~01.21) | [평균은 넘겠지] | [튜플] | [전화번호] | [에디터] | [괄호변환] | [기능개발] | [타겟넘버] |
-| 3주차 (01.24~01.28) |  |  |  |  |  |  |  |
+| 3주차 (01.24~01.28) | [경주로 건설] | [네트워크] | [N-Queen] | [가장 먼 노드] | [단지번호붙이기] | [더 맵게] | [디스크 컨트롤러] |
 | 4주차 (02.07~02.11) |  |  |  |  |  |  |  |
 | 5주차 (02.14~02.18) |  |  |  |  |  |  |  |
 | 6주차 (02.21~02.25) |  |  |  |  |  |  |  |
@@ -32,3 +32,10 @@
 [괄호변환]:https://programmers.co.kr/learn/courses/30/lessons/60058
 [기능개발]:https://programmers.co.kr/learn/courses/30/lessons/42586
 [타겟넘버]:https://programmers.co.kr/learn/courses/30/lessons/43165
+[경주로 건설]:https://programmers.co.kr/learn/courses/30/lessons/67259
+[네트워크]:https://programmers.co.kr/learn/courses/30/lessons/43162
+[N-Queen]:https://www.acmicpc.net/problem/9663
+[가장 먼 노드]:https://programmers.co.kr/learn/courses/30/lessons/49189
+[단지번호붙이기]:https://www.acmicpc.net/problem/2667
+[더 맵게]:https://programmers.co.kr/learn/courses/30/lessons/42626
+[디스크 컨트롤러]:https://programmers.co.kr/learn/courses/30/lessons/42627

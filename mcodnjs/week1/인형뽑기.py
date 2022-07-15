@@ -15,3 +15,4 @@ def solution(board, moves):
                 break
             
     return answer
+#이해하기도 쉽고 코드도 깔끔합니당
